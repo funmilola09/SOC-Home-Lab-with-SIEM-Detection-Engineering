@@ -73,9 +73,7 @@ This project is designed to showcase skills, including log analysis, detection e
 
 #  Setup Instructions
 
-## Step 1 — Create Virtual Machines
-
-Create three VMs:
+## Create three VMs:
 
 ### SIEM Server
 - Ubuntu 22.04
